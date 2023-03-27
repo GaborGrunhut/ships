@@ -11,12 +11,16 @@
 h1 {
     text-align: center;
     color: antiquewhite;
+    font: bold;
     background-color:coral;
+}
+
+thead {
+    color: antiquewhite;
 }
 
 p {
     text-align: center;
-    bottom: auto;
     font-style: italic;
     background-color: lightgray;
 }
