@@ -1,4 +1,12 @@
-
+/*
+File: index.html
+Author: Grünhut Gábor
+Copyright: 2023, Grünhut Gábor
+Group: Szoft I-1/E
+Date: 2023-03-27
+Github: https://github.com/GaborGrunhut/ships.git
+Licenc: GNU GPL
+*/
 
 const doc = {
     tbody: null
